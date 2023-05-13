@@ -1,4 +1,4 @@
-### Hello 👋 I am Saurav JHA
+### Hello 👋 I am Saurav J
 <hr><br>
 First of all, thank you for visiting my profile.Here, what you should know about me:
 <ul>
