@@ -3,9 +3,9 @@
 First of all, thank you for visiting my profile.Here, what you should know about me:
 <ul>
 <li>I am a self driven passionate coder who loves to solve problems and write efficient codes.</li>
-<li>My primary coding language: Python and supportive framework django,flask,FastAPI,chalice</li>
+<li>My primary coding language: Python, Java and supportive framework django,flask,FastAPI, spring boot</li>
 <li>I am passionate about building distributed complex system on AWS </li>
-<li>I am happy to discuss about: Data Structures and Algorithms,Programming in Python/Node.js, Databases(SQL/No SQL),Cloud(AWS/GCP) and Linux</li>
+<li>I am happy to discuss about: Data Structures and Algorithms,Programming in Python/Java/Node.js, Databases(SQL/No SQL),Cloud(AWS/GCP) and Linux</li>
 <li>I am just trying to impart my knowledge via repositories which will be quite helpful for those who started their coding journey using python.</li>
 <li>I am looking forward to collaborate on Open-Source Projects.</li>
 </ul>
